@@ -1,0 +1,87 @@
+body
+{
+	background: url('/image/background.jpg') no-repeat center fixed;
+	background-size: 100%;
+}
+
+.modal-backdrop {
+  z-index: -1;
+}
+
+
+.logo-join
+{
+	height: 50px;
+	width: auto;
+}
+
+.logo-besar
+{
+	height: 350px;
+	width: auto;
+}
+
+.navbar-brand
+{
+	padding: 0;
+}
+
+.home-page
+{
+	height: 700px;
+	margin: auto;
+	border: 5px solid grey;
+	background-color: white;
+	border-radius: 1%;
+	opacity: 0.95;
+}
+
+.input-table
+{
+	width: 100%;
+}
+
+.frame
+{
+	background-color: white;
+	border: 2px solid grey;
+	border-radius: 1%;
+	opacity: 0.95;
+}
+
+.filler-inside
+{
+	margin-top: 0px;	
+	text-align: center;
+}
+
+.filler-bottom
+{
+	text-align: center;
+	margin-top: 5%;
+}
+
+.find-button
+{
+	width: 25%;
+	height: 30px;
+}
+
+.title
+{
+	text-align: center;
+}
+
+.picker-body
+{
+	text-align: center;
+}
+
+.category-picker
+{
+	text-align: center;
+	width: 38%;
+	margin: 0 auto;
+}
+
+
